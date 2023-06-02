@@ -1,2 +1,2 @@
 # HappyHotelApp
-A hotel booking app to learn Mockito
+A hotel booking app to practice Mockito
